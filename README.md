@@ -1,5 +1,5 @@
 # NodeJs Project
-## Project: ELearn
+## ELearn
 
 - NodeJs + Express + MongoDB + Mongoose
 - Using Custom Theme KickStart.
