@@ -9,7 +9,7 @@
 
 
 Final Show Case
-![VIEWS](https://github.com/MAshrafM/NodeJS_Projects/blob/master/10_ELearn/show.jpg)
+![VIEWS](show.jpg)
 
 ### Future
 - Adding Editor for Lessons.
